@@ -7,7 +7,7 @@
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
 |   Team Leader |Sathi Siva Ramakrishna Reddy|CB.EN.U4ARE25043       |      MALE       | ARE
-|    Member 2     |                         |                        |                 |                                 |  
-|    Member 3     |                         |                        |                 |                                 |  
-|    Member 4     |                         |                        |                 |                                 |   
+|    Member 2     |Galanagari Karthik Reddy|              CB.EN.U4ARE25016          |           MALE      |                            ARE     |  
+|    Member 3     |              Reshma           |     CB.EN.U4ARE25036                   |     FEMALE            |                ARE                 |  
+|    Member 4     |Maanasha S|                CB.EN.U4ARE25025        |       FEMALE          |                            ARE     |   
 
