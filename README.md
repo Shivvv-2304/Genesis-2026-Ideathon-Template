@@ -1,13 +1,21 @@
+
 # Genesis 2026: Ideathon
 
 ## GEN26-A0H-IXXX
-### Team Details
-#### **Team Name** <<Insert Your Team Name>> <br/>
-#### Team Members
-|         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   | DAY SCHOLAR/ HOSTLER |
-|:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:|:.....................:|
-|   Team Leader |Sathi Siva Ramakrishna Reddy|CB.EN.U4ARE25043       |      MALE       | ARE|DAYSCHOLAR|
-|    Member 2     |Galanagari Karthik Reddy|              CB.EN.U4ARE25016          |           MALE      |                            ARE     |  HOSTLER(BRIGHU BHAVANAM)|
-|    Member 3     |              Reshma           |     CB.EN.U4ARE25036                   |     FEMALE            |                ARE                 | HOSTLER(MYTHERI)| 
-|    Member 4     |Maanasha S|                CB.EN.U4ARE25025        |       FEMALE          |                            ARE     |   DAYSCHOLAR|
 
+---
+
+### 👥 Team Details
+
+**Team Name:** &lt;Insert Your Team Name&gt;
+
+### 🧑‍🤝‍🧑 Team Members
+
+| Role | 👤 Name | 🎓 Roll Number | ⚧️ Gender | 🏫 Department / Programme | 🏠 Day Scholar / Hosteler |
+|:---|:---|:---|:---|:---|:---|
+| Team Leader | Sathi Siva Ramakrishna Reddy | CB.EN.U4ARE25043 | Male | ARE | Day Scholar |
+| Member 2 | Galanagari Karthik Reddy | CB.EN.U4ARE25016 | Male | ARE | Hosteler (Brighu Bhavanam) |
+| Member 3 | Reshma | CB.EN.U4ARE25036 | Female | ARE | Hosteler (Mytheri) |
+| Member 4 | Maanasha S | CB.EN.U4ARE25025 | Female | ARE | Day Scholar |
+
+---
