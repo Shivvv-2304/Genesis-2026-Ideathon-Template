@@ -6,7 +6,7 @@
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
-|   Team Leader   |                         |                        |                 |                                 |  
+|   Team Leader |Sathi Siva Ramakrishna Reddy|CB.EN.U4ARE25043       |      MALE       | ARE
 |    Member 2     |                         |                        |                 |                                 |  
 |    Member 3     |                         |                        |                 |                                 |  
 |    Member 4     |                         |                        |                 |                                 |   
