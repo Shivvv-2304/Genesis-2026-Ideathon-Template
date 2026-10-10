@@ -7,7 +7,7 @@
 
 ### 👥 Team Details
 
-**Team Name:**DynaCharge
+**Team Name:** DynaCharge
 
 ### 🧑‍🤝‍🧑 Team Members
 
